@@ -13,4 +13,4 @@ Some of the implementation problems I was faced with:
 - Drawing bitmaps and refreshing views
 - Using only 24MB of memory: `java.lang.OutOfMemoryError: bitmap size exceeds VM budget`
 
-I'm afraid, the server is no longer online and the implementation is unknown, so this code isn't very useful any more. As there are some parts containing proprietary images, sounds and strings, only the `src` folder is published here to avoid any license violations.
+I'm afraid, the server is no longer online and the implementation is unknown, so this code isn't very useful any more. As there were many parts containing proprietary images, there are no screenshots available. In addition, I've stripped away all the view definitions and custom strings, so only the `src` folder is published here to avoid any license violations. **So please, don't expect this to be working, it simply does not work any more!**
